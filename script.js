@@ -6,7 +6,7 @@ var hi = new Vivus('Layer_1', {type: 'delayed', duration: 400, start: 'autostart
 					}
     setTimeout(function(){
         $("#footer").typed({
-            strings: ["This page is under maintenance. Please come back later."],
+            strings: ["Chúng Tôi Đang Thực Hiện Bảo Trì, Vui Lòng Quay Lại Sau."],
             typeSpeed: 20, // typing speed
             backDelay: 750, // pause before backspacing
             loop: false, // loop on or off (true or false)
